@@ -1,7 +1,19 @@
-### Hi there 👋
+### Hey 👋, I'm Talisson Junior (Tj)
+
+[![Github](https://img.shields.io/github/followers/TalissonJunior?label=Follow&style=social)](https://github.com/TalissonJunior)
+
+- 🏛️ Founder at [Tekeezy](https://www.linkedin.com/company/tekeezy/)
+- ✉️ talisson@tekeezy.com.br
+- 📚 Software Enginer - Tekeezy
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TalissonJunior&theme=github)
 
 <!--
-**TalissonJunior/talissonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TalissonJunior/TalissonJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
