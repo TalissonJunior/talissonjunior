@@ -24,7 +24,11 @@ Additionally, I specialize in creating automation tools and developing VSCode ex
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juniortalisson16/.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talisson-junior-1a285aab)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=talissonjunior&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauragrassig&theme=neon&hide_border=false"  width="400px" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TalissonJunior&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TalissonJunior&theme=github)
 
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=talissonjuniorg&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
